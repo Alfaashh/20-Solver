@@ -1,0 +1,81 @@
+body {
+  background: rgb(0, 0, 0);
+  color: rgb(201, 201, 201);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 3rem;
+}
+
+input {
+  color: white;
+  text-align: center;
+  font-size: larger;
+  width: 4rem;
+  height: 4rem;
+  margin-left: 10px;
+  border: none;
+  border-radius: 5%;
+  border: 1px solid white;
+  background-color: black;
+}
+
+button {
+  background-color: greenyellow;
+  cursor: pointer;
+  border: none;
+  border-radius: 5%;
+  margin-left: 1.5rem;
+  padding: 20px;
+  transition: background-color 0.5s ease, color 0.3s ease, border 0.8s ease;
+}
+
+button:hover {
+  background-color: black;
+  border: 1px solid white;
+  color: white;
+  transition: all;
+}
+
+.solutionBox {
+  margin-top: 2.5rem;
+  padding: 0.5rem 2rem;
+  border: 1px solid white;
+}
+
+@media only screen and (max-width: 620px) {
+  button {
+    padding: 10px;
+    margin-left: 10px;
+  }
+
+  input {
+    font-size: small;
+    width: 3rem;
+    height: 3rem;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  button {
+    padding: 10px;
+    margin-left: 5px;
+    font-size: x-small;
+  }
+
+  input {
+    font-size: small;
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-left: 2px;
+  }
+
+  .solutionBox {
+    margin-top: 1.5rem;
+    padding: 0.1rem 1rem;
+    border: 1px solid white;
+  }
+}

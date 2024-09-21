@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>20 Solver</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <h1>20 Solver</h1>
+
+    <form id="solverForm">
+      <table>
+        <tr>
+          <td>
+            <input type="text" id="first" placeholder="1st" required />
+          </td>
+          <td>
+            <input type="text" id="second" placeholder="2nd" required />
+          </td>
+          <td>
+            <input type="text" id="third" placeholder="3rd" required />
+          </td>
+          <td>
+            <input type="text" id="fourth" placeholder="4th" required />
+          </td>
+          <td colspan="4">
+            <button type="submit">Find Solution</button>
+          </td>
+        </tr>
+      </table>
+    </form>
+
+    <div class="solutionBox">
+      <h3>Solutions:</h3>
+      <p id="solutionLabel"></p>
+      <p id="solution"></p>
+    </div>
+
+    <script src="index.js"></script>
+  </body>
+</html>
