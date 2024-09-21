@@ -38,7 +38,6 @@ function generateUniqueExpressions(nums, ops) {
     ops.forEach((op1) => {
       ops.forEach((op2) => {
         ops.forEach((op3) => {
-          // Considering commutative property for +
           if (op1 === op2 && op2 === op3 && op1 === '+') {
             if (plusExpression.size == 0) {
               plusExpression.add(`${a}${op1}${b}${op2}${c}${op3}${d}`);
@@ -50,7 +49,6 @@ function generateUniqueExpressions(nums, ops) {
               expressions.add(expression);
             }
           } else {
-            // General case
             // ((n0 op0 n1) op1 n2) op2 d3
             expressions.add(`((${a}${op1}${b})${op2}${c})${op3}${d}`);
             // (n0 op0 (n1 op1 n2)) op2 d3
@@ -67,7 +65,6 @@ function generateUniqueExpressions(nums, ops) {
     });
   }
 
-  // Generate expressions by permuting nums and applying ops
   for (let i = 0; i < nums.length; i++) {
     for (let j = 0; j < nums.length; j++) {
       if (j === i) continue;
