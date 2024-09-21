@@ -13,7 +13,9 @@ document
 
     const numbers = [number1, number2, number3, number4];
 
-    if (numbers.every((number) => !isNaN(number) && number < 31)) {
+    if (
+      numbers.every((number) => !isNaN(number) && number < 31 && number >= 0)
+    ) {
       findSolutions(numbers);
     } else {
       document.getElementById('solution').innerHTML = 'Invalid number input.';
