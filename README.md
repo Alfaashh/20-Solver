@@ -81,21 +81,12 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Muhammad Al Fathi Ayyash - [@twitter_handle](https://twitter.com/twitter_handle) - muhalfathiayyash@gmail.com
+Muhammad Al Fathi Ayyash - [Github](https://github.com/Alfaashh) - muhalfathiayyash@gmail.com
 <br />
-Mohammad Ferdinand Ramdhani - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Mohammad Ferdinand Ramdhani - [Github](https://github.com/mferdinandr) - email@email_client.com
 
 Project Link: [https://github.com/alfaashh/20-Solver](https://github.com/alfaashh/20-Solver)
 
