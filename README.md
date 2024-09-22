@@ -98,7 +98,7 @@ To get a local copy up and running follow these simple example steps.
 
 Muhammad Al Fathi Ayyash(L0123088)- [Github](https://github.com/Alfaashh) - muhalfathiayyash@gmail.com
 <br />
-Mohammad Ferdinand Ramdhani( - [Github](https://github.com/mferdinandr) - mferdinr@gmail.com
+Mohammad Ferdinand Ramdhani(L012382) - [Github](https://github.com/mferdinandr) - mferdinr@gmail.com
 
 Project Link: [https://github.com/alfaashh/20-Solver](https://github.com/alfaashh/20-Solver)
 
