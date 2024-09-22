@@ -3,9 +3,8 @@
 <div align="center">
   <a href="https://github.com/alfaashh/20-Solver">
     <img src="images/logo.png" alt="Logo" width="240" height="80">
+    <br />
   </a>
-
-<h1 align="center">20 Solver</h1>
 
   <p align="justify">
     https://20-solver-uns.vercel.app/
@@ -26,7 +25,20 @@
 
 ![Web Screenshoot][product-screenshot]
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+20 Solver is an interactive web application developed as part of a course assignment for the Design and Analysis of Algorithms class of the Informatics major at Sebelas Maret University.
+
+Basic Rules of 20 Solver:
+
+Users are given 4 positive integers ranging from 0 to 30.
+The goal is to use these 4 numbers to create an expression that evaluates to 20.
+Available mathematical operations include addition (+), subtraction (-), multiplication (*), and division (/).
+The order of operations can be modified using parentheses ().
+
+How It Works:
+
+Users input four numbers within the specified range.
+The application uses brute force algorithms to find all possible combinations of these numbers and operations that result in 20.
+All valid solutions are displayed, showing the different ways to achieve the target number.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,9 +96,9 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact
 
-Muhammad Al Fathi Ayyash - [Github](https://github.com/Alfaashh) - muhalfathiayyash@gmail.com
+Muhammad Al Fathi Ayyash(L0123088)- [Github](https://github.com/Alfaashh) - muhalfathiayyash@gmail.com
 <br />
-Mohammad Ferdinand Ramdhani - [Github](https://github.com/mferdinandr) - email@email_client.com
+Mohammad Ferdinand Ramdhani( - [Github](https://github.com/mferdinandr) - mferdinr@gmail.com
 
 Project Link: [https://github.com/alfaashh/20-Solver](https://github.com/alfaashh/20-Solver)
 
