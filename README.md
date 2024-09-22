@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/alfaashh/20-Solver">
-    <img src="images/logo.png" alt="Logo" width="240" height="80">
+    <img src="images/logo.png" alt="Logo" width="280" height="80">
     <br />
   </a>
 
