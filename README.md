@@ -27,14 +27,14 @@
 
 20 Solver is an interactive web application developed as part of a course assignment for the Design and Analysis of Algorithms class of the Informatics major at Sebelas Maret University.
 
-Basic Rules of 20 Solver:
+### Basic Rules of 20 Solver:
 
 Users are given 4 positive integers ranging from 0 to 30.
 The goal is to use these 4 numbers to create an expression that evaluates to 20.
 Available mathematical operations include addition (+), subtraction (-), multiplication (*), and division (/).
 The order of operations can be modified using parentheses ().
 
-How It Works:
+### How It Works:
 
 Users input four numbers within the specified range.
 The application uses brute force algorithms to find all possible combinations of these numbers and operations that result in 20.
