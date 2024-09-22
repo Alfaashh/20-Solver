@@ -21,12 +21,9 @@
   <p align="center">
     20 Solver is an interactive web application that challenges users to find ways to produce the number 20 using four given numbers. The application uses basic mathematical operations (addition, subtraction, multiplication, and division) and allows for the arrangement of operation order using parentheses to achieve the desired result.
     <br />
-    <a href="https://github.com/alfaashh/20-Solver/docs"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/alfaashh/20-Solver/demo">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/alfaashh/20-Solver/tree/main/docs"><strong>Explore the docs »</strong></a>
+     ·
+     <a href="https://github.com/alfaashh/20-Solver/tree/main/demo">View Demo</a>
   </p>
 </div>
 
