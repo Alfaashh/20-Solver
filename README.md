@@ -5,7 +5,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">20 Solver</h3>
+<h1 align="center">20 Solver</h1>
 
   <p align="justify">
     https://20-solver-uns.vercel.app/
@@ -16,7 +16,7 @@
   <p align="center">
     <a href="https://github.com/alfaashh/20-Solver/tree/main/docs"><strong>Explore the docs </strong></a>
      ·
-     <a href="https://github.com/alfaashh/20-Solver/tree/main/demo">View Demo</a>
+     <a href="https://github.com/alfaashh/20-Solver/tree/main/demo"><strong>View Demo </strong></a>
   </p>
 </div>
 
@@ -73,17 +73,6 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ### Top contributors:
 
 <a href="https://github.com/Alfaashh/20-Solver/graphs/contributors">
@@ -104,11 +93,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Muhammad Al Fathi Ayyash - [@twitter_handle](https://twitter.com/twitter_handle) - muhalfathiayyash@gmail.com
 <br />
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Mohammad Ferdinand Ramdhani - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/alfaashh/20-Solver](https://github.com/alfaashh/20-Solver)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
