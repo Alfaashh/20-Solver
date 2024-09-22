@@ -1,14 +1,3 @@
-<a id="readme-top"></a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -18,7 +7,7 @@
 
 <h3 align="center">20 Solver</h3>
 
-  <p align="center">
+  <p align="justify">
     20 Solver is an interactive web application that challenges users to find ways to produce the number 20 using four given numbers. The application uses basic mathematical operations (addition, subtraction, multiplication, and division) and allows for the arrangement of operation order using parentheses to achieve the desired result.
     <br />
     <a href="https://github.com/alfaashh/20-Solver/tree/main/docs"><strong>Explore the docs </strong></a>
@@ -30,6 +19,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+![Web Screenshoot][product-screenshot]
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
